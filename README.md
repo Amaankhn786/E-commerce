@@ -1,5 +1,5 @@
 # create .env file and add this
-`PORT = 8080`
+PORT = 8080
 #DEV_MODE = development
 #MONGO_URL = mongodb+srv://amaan:amaan123@cluster0.v5wpz8f.mongodb.net/ecommerce
 #JWT_SECRET = hjkgkgkhjgjkg
