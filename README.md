@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# create .env file and add this
+PORT = 8080
+DEV_MODE = development
+MONGO_URL = mongodb+srv://amaan:amaan123@cluster0.v5wpz8f.mongodb.net/ecommerce
+JWT_SECRET = hjkgkgkhjgjkg
 
-=
+#install  node_modules and all there dependency
+
+
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App]
+
 
 ## Available Scripts
 
@@ -41,6 +50,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm run build` fails to minify
 
-
-### `npm run dev` to run both react and node 
+#Finnaly to overrall run the project you neet to run this command in the project directory
+### `npm run dev` to run both react and node combinally.
 
