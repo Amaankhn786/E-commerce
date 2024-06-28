@@ -1,8 +1,8 @@
 # create .env file and add this
-PORT = 8080
-DEV_MODE = development
-MONGO_URL = mongodb+srv://amaan:amaan123@cluster0.v5wpz8f.mongodb.net/ecommerce
-JWT_SECRET = hjkgkgkhjgjkg
+#PORT = 8080
+#DEV_MODE = development
+#MONGO_URL = mongodb+srv://amaan:amaan123@cluster0.v5wpz8f.mongodb.net/ecommerce
+#JWT_SECRET = hjkgkgkhjgjkg
 
 #install  node_modules and all there dependency
 
