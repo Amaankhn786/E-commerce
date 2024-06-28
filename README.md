@@ -42,5 +42,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### `npm run build` fails to minify
 
 
-### `npm run dev` to run both react and node combinally
+### `npm run dev` to run both react and node 
 
